@@ -1,0 +1,1 @@
+helm init --skip-refresh --upgrade --service-account tiller

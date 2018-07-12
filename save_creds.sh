@@ -1,0 +1,1 @@
+echo $password | faas-cli login -g http://GATEWAY-URL -u admin --password-stdin
